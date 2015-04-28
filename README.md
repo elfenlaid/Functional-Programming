@@ -158,7 +158,7 @@ GHCI Interactive Shell
 | :reload                     |  Reload Code after it was edited            |
 | :type [symbol]             |  Show the Type of a Symbol                  |
 | :browser                    |  Gives the type signature of all functions  |
-| :set +s                     |  Multiline Code                             |
+| :set +s                     |  Print timing/memory stats after each evaluation |
 | :{ [code here ] :}        |    Multiline Code                             |
 | :set prompt ">"             |  Change the prompt to ">"                   |
 
